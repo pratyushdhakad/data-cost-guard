@@ -1,0 +1,10 @@
+{
+  "latest_date": "2026-07-31",
+  "last_30_day_cost_usd": 26046.77,
+  "anomaly_count": 4,
+  "identified_excess_cost_usd": 700.74,
+  "highest_cost_owner": "marketing",
+  "current_daily_run_rate_usd": 868.23,
+  "next_30_day_forecast_usd": 26649.74,
+  "daily_trend_usd": 0.67
+}

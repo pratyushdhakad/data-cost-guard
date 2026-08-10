@@ -1,0 +1,5 @@
+usage_date,owner,environment,rows_synced,connector_cost_usd,warehouse_cost_usd,total_cost_usd,cost_per_million_rows_usd,connector,baseline_cost_usd,anomaly_score,is_anomaly,excess_cost_usd
+2026-07-02,marketing,production,2188262,149.85,39.41,189.26,86.49,meta_ads,91.24,7.66,True,98.01
+2026-07-18,product,production,3428081,175.97,56.58,232.55,67.84,product_analytics,119.5,8.93,True,113.05
+2026-06-24,commerce,production,5966070,271.79,89.79,361.58,60.61,shopify_orders,123.62,18.46,True,237.96
+2026-07-11,growth,production,7059851,292.02,109.11,401.13,56.82,subscription_events,149.41,12.42,True,251.72
