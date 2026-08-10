@@ -2,6 +2,8 @@
 
 An end-to-end cost intelligence pipeline that identifies abnormal connector and warehouse spend, forecasts the next 30 days, and produces a decision-ready executive dashboard.
 
+**[Open the live executive dashboard](https://pratyushdhakad.github.io/data-cost-guard/)**
+
 > All records and results in this repository are synthetic. They demonstrate the engineering approach without exposing employer data.
 
 ## Why this project exists
