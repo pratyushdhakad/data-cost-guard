@@ -85,7 +85,7 @@ tests/                 unit and end-to-end tests
 dashboard/             generated executive dashboard
 artifacts/             generated analysis outputs
 docs/                  architecture and interview walkthrough
-.github/workflows/     automated quality checks
+.github/workflows/     continuous integration and Pages deployment
 ```
 
 ## Decisions and limitations
